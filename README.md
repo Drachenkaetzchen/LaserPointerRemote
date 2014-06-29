@@ -1,0 +1,1 @@
+A small handheld remote to signal the BDSM traffic light signal (red, yellow, green) to signal if the top should go ahead or not. The signal is transmitted via RFM12 and displayed via LEDs. Incoming signals are additionally signaled by a vibration motor.
